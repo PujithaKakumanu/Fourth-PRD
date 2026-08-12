@@ -1,0 +1,17 @@
+Enter student name:
+ Kiran
+Enter daily budget:
+ 300
+Enter food expense:
+ 140
+Enter travel expense: 90
+Enter study expense: 80
+Enter other expense: 40
+
+---------- DAILY EXPENSE REPORT ----------
+Student Name      : Kiran
+Daily Budget      : 300.0
+Food Expense      : 140.0
+Exceeded Amount   : 50.0
+Budget Status     : Budget Exceeded
+------------------------------------------
