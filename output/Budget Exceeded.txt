@@ -14,4 +14,4 @@ Daily Budget      : 300.0
 Food Expense      : 140.0
 Exceeded Amount   : 50.0
 Budget Status     : Budget Exceeded
-------------------------------------------
+-------------------------------------------

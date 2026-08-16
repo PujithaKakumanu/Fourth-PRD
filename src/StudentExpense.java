@@ -85,7 +85,7 @@ public class StudentExpense {
 
         System.out.print("Enter other expense: ");
         student.otherExpense = sc.nextDouble();
-
+ 
         if (student.dailyBudget < 0 ||
             student.foodExpense < 0 ||
             student.travelExpense < 0 ||
